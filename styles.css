@@ -1,0 +1,17 @@
+
+.container{
+  margin: auto;
+  width: 500px; 
+  text-align: center;
+  font-family: helvetica;
+}
+
+body{
+  background-color: #FFC0CB;
+}
+
+
+.red{
+  color: red;
+}
+
